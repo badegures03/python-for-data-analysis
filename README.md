@@ -10,3 +10,10 @@ Tasks completed:
 -Performed data exploration
 
 -Performed data aggregation to create dataframes for investors
+
+Project 2: E-commerce Orders Analysis
+
+Tasks completed:
+-Cleaning and filtering data
+-Merging dataframes
+-Data visualization using Matplotlib & Seaborn
